@@ -148,4 +148,8 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+}
+@media max-width:190px {
+    padding: 10px;
 }
